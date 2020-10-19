@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
+guid: 1ce4350791f9a1a49b6eb39d23ec5ff5
+=======
 guid: e69f25322f70e074085511c4b337a0b7
+>>>>>>> a1228c167990ddcff65426528bdf5fa17d894717
 labels:
 - dead
 - plant
