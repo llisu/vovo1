@@ -205,6 +205,7 @@
     <Compile Include="Assets\Script\LoadManager.cs" />
     <Compile Include="Assets\Script\MusicManager.cs" />
     <Compile Include="Assets\Script\SettingManager.cs" />
+    <Compile Include="Assets\Script\Test.cs" />
     <None Include="Assets\Allsky\allsky_readme.txt" />
     <None Include="Assets\LowPolyWater_Pack\Shaders\WaterShaded.shader" />
     <None Include="Assets\HTC.UnityPlugin\ViveInputUtility\changelog.txt" />
